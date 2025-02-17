@@ -3,57 +3,37 @@
 <summary><h2 style="display:inline-block">💻 Coding Languages</h2></summary>
 
 - <b>Proficient</b>
-    - Python &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
+    - Python &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000">
 
 - <b>Intermediate</b>
-    - SQL &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000">
-    - HTML &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000">
-    - CSS &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000">
-    - JSON &nbsp;&nbsp;&nbsp;<img align="center" height="18px" src="https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5f493b167e5dc864a0265b30_json-logo.png">
-    - Markdown &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=45065&format=png&color=000000">
-    - RegEx &nbsp;&nbsp;&nbsp;<img align="center" width="20px" src="https://img.icons8.com/?size=100&id=4swbi_BZ7hlw&format=png&color=000000">
+    - SQL &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000">
+    - HTML &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000">
+    - CSS &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000">
+    - JSON &nbsp;&nbsp;&nbsp;<img height="18px" src="https://assets-global.website-files.com/5aa7081220a301f2a3644f3b/5f493b167e5dc864a0265b30_json-logo.png">
+    - Markdown &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=45065&format=png&color=000000">
+    - RegEx &nbsp;&nbsp;&nbsp;<img width="20px" src="https://img.icons8.com/?size=100&id=4swbi_BZ7hlw&format=png&color=000000">
 
 - <b>Basic Knowledge</b>
 
-    - XML &nbsp;&nbsp;&nbsp;<img align="center" height="16px" src="https://media2.dev.to/dynamic/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fe94hns2sfpky4ott3ic6.png">
-    - YAML &nbsp;&nbsp;&nbsp;<img align="center" height="16px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz5d5FEg02C8g9HXHfrbhACgzaUPshYDi3Q&s">
-    - php &nbsp;&nbsp;&nbsp;<img align="center" height="24px" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000">
-    - C++ &nbsp;&nbsp;&nbsp;<img align="center" height="20px" src="https://img.icons8.com/?size=100&id=7auNjcbYzj5E&format=png&color=000000">
+    - XML &nbsp;&nbsp;&nbsp;<img height="16px" src="https://media2.dev.to/dynamic/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fe94hns2sfpky4ott3ic6.png">
+    - YAML &nbsp;&nbsp;&nbsp;<img height="16px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqz5d5FEg02C8g9HXHfrbhACgzaUPshYDi3Q&s">
+    - php &nbsp;&nbsp;&nbsp;<img height="24px" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000">
+    - C++ &nbsp;&nbsp;&nbsp;<img height="20px" src="https://img.icons8.com/?size=100&id=7auNjcbYzj5E&format=png&color=000000">
 </details>
 <details open>
 <summary><h2 style="display:inline-block">🛠️ Frameworks & Other Tools</h2></summary>
 
-   - Tableau &nbsp;&nbsp;&nbsp;<img align="center" width="20px" src="https://images.seeklogo.com/logo-png/38/2/tableau-software-logo-png_seeklogo-386611.png">
-   - Qt Designer &nbsp;&nbsp;&nbsp;<img align="center" width="20px" src="https://www.svgrepo.com/show/354243/qt.svg">
-  - Git &nbsp;&nbsp;&nbsp;<img align="center" width="20px" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png">
+   - Tableau &nbsp;&nbsp;&nbsp;<img width="20px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000">
+   - Qt Designer &nbsp;&nbsp;&nbsp;<img width="20px" src="https://www.svgrepo.com/show/354243/qt.svg">
+  - Git &nbsp;&nbsp;&nbsp;<img width="20px" src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png">
 </details>
 <details open>
 <summary><h2 style="display:inline-block"><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=UVQTFk728g0D&format=png&color=000000">&nbsp;Software Development Projects</h2></summary>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 </details>
 <details open>
 <summary><h2 style="display:inline-block"><img align="left" width="28x" src="https://img.icons8.com/?size=100&id=0AciDGTxkuUh&format=png&color=000000">&nbsp;Links</h2></summary>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 </details>
 <h2><img align="left" width="28px" src="https://img.icons8.com/?size=100&id=GiHNxwe2ZmsA&format=png&color=000000" />&nbsp;Connect with me</h2>
 

@@ -44,3 +44,6 @@
 [thex]: https://x.com/JesseHousel
 [linkedin]: https://www.linkedin.com/in/jesse-housel/
 [email]: mailto:jhouselprog@gmail.com
+<br><br>
+---
+<a href="https://www.buymeacoffee.com/jessehousel"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&slug=jessehousel&button_colour=252525&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=AF7F5D" /></a>
